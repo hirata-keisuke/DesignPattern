@@ -30,3 +30,19 @@ class Room:
     @property
     def south(self):
         return self._south
+
+    @west.setter
+    def west(self, neighbor):
+        self._west = neighbor
+
+    @east.setter
+    def east(self, neighbor):
+        self._east = neighbor
+
+    @north.setter
+    def north(self, neighbor):
+        self._north = neighbor
+
+    @south.setter
+    def south(self, neighbor):
+        self._south = neighbor
