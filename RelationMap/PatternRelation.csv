@@ -1,0 +1,24 @@
+source,target,annotation
+Abstract Factory,Singleton,インスタンスを1つだけ生成する
+Facade,Singleton,インスタンスを1つだけ生成する
+Abstract Factory,Factory Method,〜へを使って実装する
+Abstract Factory,Prototype,factoryを動的に構成する
+Template Method,Factory Method,しばしば使用する
+Template Method,Strategy,アルゴリズムのステップを定義する
+Decorator,Strategy,殻の変更対中身の変更
+Strategy,Decorator,殻の変更対中身の変更
+Strategy,Flyweight,戦略を共有する
+State,Flyweight,状態を共有する
+Interpreter,Flyweight,終端記号を共有する
+Composite,Flyweight,末端のノードを共有する
+Interpreter,Composite,文法を定義する
+Interpreter,Vistor,メソッドを追加する
+Composite,Vistor,メソッドを追加する
+Composite,Builder,複合オブジェクトを生成する
+Composite,Iterator,子オブジェクトを数え上げる
+Vistor,Iterator,走査を定義する
+Iterator,Memento,イテレーションの状態を保存する
+Command,Memento,ヒステリシスを避ける
+Command,Composite,〜を使って組み立てる
+Chain of Responsibility,Composite,チェーンを定義する
+Observer,Mediator,複雑な依存関係を管理する
