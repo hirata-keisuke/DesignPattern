@@ -1,4 +1,4 @@
 class Room:
 
     def __init__(self, room_number):
-        pass
+        self.number = room_number
