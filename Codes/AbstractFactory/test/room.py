@@ -10,6 +10,10 @@ class RoomTest(unittest.TestCase):
         room = Room(room_number=1)
 
         self.assertEqual(1, room.number)
+        self.assertIsNone(room.west)
+        self.assertIsNone(room.east)
+        self.assertIsNone(room.north)
+        self.assertIsNone(room.south)
 
 
 if __name__ == '__main__':
