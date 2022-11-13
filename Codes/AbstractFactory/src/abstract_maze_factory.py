@@ -1,0 +1,13 @@
+class AbstractMazeFactory:
+
+    def __init__(self):
+        ...
+
+    def make_maze(self):
+        ...
+
+    def make_room(self, number):
+        ...
+
+    def make_door(self, room1, room2):
+        ...
