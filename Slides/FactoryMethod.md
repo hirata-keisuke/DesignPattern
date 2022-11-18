@@ -16,7 +16,7 @@ slideNumber: true
 
 オブジェクトを生成するときのインタフェースだけを規定して、実際にどのクラスをインスタンス化するかはサブクラスが決めるようにする。Factory Methodパターンは、インスタンスかサブクラスに任せる。
 
-<img src="./Images/FactoryMethod.png" alt="class_diagram" style="border:none; box-shadow:none;">
+<img src="./Images/FactoryMethod.png" alt="class_diagram" style="border:none; box-shadow:none; width:20cm;">
 
 ---
 

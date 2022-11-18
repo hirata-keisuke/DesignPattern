@@ -16,7 +16,7 @@ slideNumber: true
 
 生成すべきオブジェクトの種類を原型となるインスタンスを使って明確にし、それをコピーすることで新たなオブジェクトの生成を行う。
 
-<img src="./Images/Prototype.png" alt="class_diagram" style="border:none; box-shadow:none;">
+<img src="./Images/Prototype.png" alt="class_diagram" style="border:none; box-shadow:none; width:20cm;">
 
 ---
 

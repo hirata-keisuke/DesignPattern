@@ -16,7 +16,7 @@ slideNumber: true
 
 複合オブジェクトについて、その作成過程を表現形式に依存しないものにすることにより、同じ作成過程で異なる表現形式のオブジェクトを生成できるようにする。
 
-<img src="./Images/Builder.png" alt="class_diagram" style="border:none; box-shadow:none;">
+<img src="./Images/Builder.png" alt="class_diagram" style="border:none; box-shadow:none; width:20cm;">
 
 ---
 
