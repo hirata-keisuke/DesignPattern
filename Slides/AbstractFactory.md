@@ -5,20 +5,18 @@ title: "Abstoract Factory"
 slideNumber: true
 
 ---
-
-## Abstract Factoryパターン
-## 
-
----
-
 <style type="text/css"> p,li { font-size:0.8em; text-align:left; }
 </style>
+
+## Abstract Factoryパターン
+
+---
 
 ## 目的
 
 互いに関連したり依存し合うオブジェクト群を、明確にせずに生成するためのインタフェースを提供する。
 
-<img src="./Images/AbstractFactory.png" alt="巨人の肩に立つ" style="border:none; box-shadow:none;">
+<img src="./Images/AbstractFactory.png" alt="class_diagram" style="border:none; box-shadow:none; width:20cm;">
 
 ---
 
