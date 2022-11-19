@@ -9,6 +9,9 @@ slideNumber: true
 </style>
 
 ## Singleton パターン
+<div>
+    <img src="./Images/いらすとや/クライアントサーバー.png" alt="クライアントサーバー" style="height:10cm">
+</div>
 
 ---
 
