@@ -9,6 +9,29 @@ slideNumber: true
 </style>
 
 ## Factory Methodパターン
+<table style="border:none;">
+    <tr style="border:none;">
+        <td style="border:none;"><img src="./Images/いらすとや/釘.png" alt="釘" style="height:1cm;"></td>
+        <td style="border:none;"><img src="./Images/いらすとや/右矢印.png" alt="右矢印" style="height:1cm;"></td>
+        <td style="border:none;"><img src="./Images/いらすとや/工場.png" alt="工場" style="height:4cm;"></td>
+        <td style="border:none;"><img src="./Images/いらすとや/左矢印.png" alt="左矢印" style="height:1cm;"></td>
+        <td style="border:none;"><img src="./Images/いらすとや/木材.png" alt="木材" style="height:1cm;"></td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;"></td>
+        <td style="border:none;"></td>
+        <td style="border:none;"><img src="./Images/いらすとや/下矢印.png" alt="下矢印" style="height:3cm;"></td>
+        <td style="border:none;"></td>
+        <td style="border:none;"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td><img src="./Images/いらすとや/法隆寺.png" alt="法隆寺" style="height:4cm;"></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ---
 
