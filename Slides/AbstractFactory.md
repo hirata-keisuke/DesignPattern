@@ -9,6 +9,16 @@ slideNumber: true
 </style>
 
 ## Abstract Factoryパターン
+<div>
+    <img src="./Images/いらすとや/工場.png" alt="工場" style="height:4cm;">
+    <img src="./Images/いらすとや/抵抗器.png" alt="工場" style="height:2cm;">
+    <img src="./Images/いらすとや/紫発光ダイオード.png" alt="工場" style="height:2cm;">
+</div>
+<div>
+    <img src="./Images/いらすとや/工場.png" alt="工場" style="height:4cm;">
+    <img src="./Images/いらすとや/抵抗器2.png" alt="工場" style="height:2cm;">
+    <img src="./Images/いらすとや/赤発光ダイオード.png" alt="工場" style="height:2cm;">
+</div>
 
 ---
 
@@ -16,7 +26,7 @@ slideNumber: true
 
 互いに関連したり依存し合うオブジェクト群を、明確にせずに生成するためのインタフェースを提供する。
 
-<img src="./Images/AbstractFactory.png" alt="class_diagram" style="border:none; box-shadow:none; width:20cm;">
+<img src="./Images/AbstractFactory.png" alt="class_diagram" style="border:none; box-shadow:none; width:18cm;">
 
 ---
 

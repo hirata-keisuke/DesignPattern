@@ -17,7 +17,7 @@ slideNumber: true
 - アプリケーション設計で直面する問題を毎回、1から解くのは賢くない
 - 小説家や脚本家がかつての名作（マクベスやハムレット）を参考にするように、エンジニアもかつてから成功している設計を利用するべきである
 
-<img src="./Images/巨人の肩に立つ.png" alt="巨人の肩に立つ" width="50%" height="40%" style="border:none;box-shadow:none;">
+<img src="./Images/いらすとや/巨人の肩に立つ.png" alt="巨人の肩に立つ" width="50%" height="40%" style="border:none;box-shadow:none;">
 
 ---
 
@@ -27,8 +27,8 @@ slideNumber: true
 - 何度でも解法を使えるように、パターンの**名前**、どんな**問題**に適用できるのか、どういった要素や関連を持つ**解法**なのか、その**結果**や影響をまとめておく必要がある。
 
 <div>
-<img src="./Images/二重窓.png" alt="二重窓" width="30%" height="20%" style="border:none;box-shadow:none;">
-<img src="./Images/スロープ.png" alt="スロープ" width="30%" height="20%" style="border:none;box-shadow:none;">
+<img src="./Images/いらすとや/二重窓.png" alt="二重窓" width="30%" height="20%" style="border:none;box-shadow:none;">
+<img src="./Images/いらすとや/スロープ.png" alt="スロープ" width="30%" height="20%" style="border:none;box-shadow:none;">
 </div>
 <p style="font-size: 24px;">寒い地域の窓なら二重窓、パリアフリーな段差にはスロープといった道具を用意する</p>
 
