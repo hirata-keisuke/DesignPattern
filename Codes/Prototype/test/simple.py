@@ -10,10 +10,13 @@ class SimpleMazeTest(unittest.TestCase):
         self.assertEqual("ただのドアです。", door.effect())
 
     def test_door_clone(self):
-        door = SimpleDoor(None, None)
-        other = door.clone()
+        import copy
+        r1 = SimpleRoom(1)
+        door = SimpleDoor(r1, copy.deepcopy(r1))
+        other = copy.deepcopy(door)
         
         self.assertIsNot(other, door)
+        self.assertIsNot(r1, door._room1)
 
     def test_room(self):
         room = SimpleRoom(1)

@@ -40,3 +40,11 @@ class SimpleRoom(PrototypeMapsite, Room):
 
     def effect(self):
         return "ただの部屋です。"
+
+class BombedRoom(PrototypeMapsite, Room):
+
+    def clone(self):
+        return BombedRoom(self._number)
+
+    def effect(self):
+        return "ドッカーン！！！"
