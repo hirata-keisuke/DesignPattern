@@ -10,15 +10,14 @@ slideNumber: true
 
 ## Builder パターン
 <div>
-    <img src="./Images/いらすとや/下請け.png" alt="下請け" style="height:6cm;"><br>
-    <img src="./Images/いらすとや/下矢印.png" alt="下矢印" style="height:2cm;">
-    <img src="./Images/いらすとや/下矢印.png" alt="下矢印" style="height:2cm;">
-    <img src="./Images/いらすとや/下矢印.png" alt="下矢印" style="height:2cm;">
-    <img src="./Images/いらすとや/下矢印.png" alt="下矢印" style="height:2cm;"><br>
-    <img src="./Images/いらすとや/txtファイル.png" alt="txt" style="height:2cm;">
-    <img src="./Images/いらすとや/pdfファイル.png" alt="pdf" style="height:2cm;">
-    <img src="./Images/いらすとや/xlsファイル.png" alt="xls" style="height:2cm;">
-    <img src="./Images/いらすとや/pptファイル.png" alt="ppt" style="height:2cm;">
+    <img src="./Images/いらすとや/大工.png" alt="ppt" style="height:4cm;">
+</div>
+<div>
+    <img src="./Images/いらすとや/ブロック.png" alt="ブロック" style="height:2cm;">
+    <img src="./Images/いらすとや/プラス.png" alt="プラス" style="height:2cm;">
+    <img src="./Images/いらすとや/ブロック.png" alt="ブロック" style="height:2cm;">
+    <img src="./Images/いらすとや/右矢印.png" alt="右矢印" style="height:2cm;">
+    <img src="./Images/いらすとや/城.png" alt="城" style="height:2cm;">
 </div>
 
 ---
