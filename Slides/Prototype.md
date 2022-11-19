@@ -9,6 +9,12 @@ slideNumber: true
 </style>
 
 ## Prototype パターン
+<div>
+    <img src="./Images/いらすとや/クッキー型抜き.png" alt="クッキー型抜き" style="width:2cm;">
+    <img src="./Images/いらすとや/丸クッキー.png" alt="丸クッキー" style="width:2cm;">
+    <img src="./Images/いらすとや/星クッキー.png" alt="星クッキー" style="width:2cm;">
+    <img src="./Images/いらすとや/星クッキー.png" alt="星クッキー" style="width:2cm;">
+</div>
 
 ---
 
