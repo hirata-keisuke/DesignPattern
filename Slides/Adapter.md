@@ -14,15 +14,17 @@ slideNumber: true
 
 ## 目的
 
-生成すべきオブジェクトの種類を原型となるインスタンスを使って明確にし、それをコピーすることで新たなオブジェクトの生成を行う。
+あるクラスのインタフェースを、クライアントが求める他のインタフェースへ変換する。インタフェースに互換性がないクラス同士を組み合わせることができる。
 
-<img src="./Images/Prototype.png" alt="class_diagram" style="border:none; box-shadow:none;">
+<img src="./Images/Adapter.png" alt="class_diagram" style="border:none; box-shadow:none;">
 
 ---
 
 ## こんな時に使えるかも
 
-- XXX
+- 既存のクラスを利用したいが、そのインタフェースが必要なインタフェースと一致していない場合
+
+- 必ずしも互換性のあるインタフェースを持つとは限らないクラスとも協調していける、再利用可能なクラスを作成したい場合
 
 ---
 
